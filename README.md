@@ -1,7 +1,7 @@
 
-# React EventEmitter
+# React Hotelbooking Demo App
 
-A minimal React JS application that demos the possible usages of EventEmitter with React applications
+A minimal React JS application that demos the usage of React + EventEmitter
 
 Based on 'React Starterify'.
 
